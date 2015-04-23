@@ -1,0 +1,1 @@
+A simple web server and browser in Ruby as part of the (odin project)[http://www.theodinproject.com/ruby-programming/ruby-on-the-web?ref=lnav]
